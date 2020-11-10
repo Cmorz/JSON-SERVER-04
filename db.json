@@ -5,21 +5,21 @@
       "id": 1, 
       "title": "Cartagena", 
       "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia.",
-      "temperature": "31",
+      "temperature": "31°",
       "image": "https://i.pinimg.com/originals/a9/45/3a/a9453a8b0d355c9b012a06ee69d82be3.jpg"
     },
     { 
       "id": 2, 
       "title": "Medellin", 
       "description": "Medellín es la capital de la provincia montañosa de Antioquia en Colombia", 
-      "temperature": "21",
+      "temperature": "21°",
       "image": "https://panel.baquianos.com/img/blog/2020/14/medell-iacuten-xw3x640.jpg"
     }, 
     { 
       "id": 3, 
       "title": "Roma", 
       "description": "Roma, la capital de Italia, es una extensa ciudad cosmopolita que tiene a la vista casi 3,000 años de arte, arquitectura y cultura de influencia mundial.",
-      "thumbnail": "https://historia.nationalgeographic.com.es/medio/2019/01/18/foro-romano-roma_6a11fe2b.jpg",
+      "temperature": "11°",
       "image": "https://historia.nationalgeographic.com.es/medio/2019/01/18/foro-romano-roma_6a11fe2b.jpg"
     }
   ],
