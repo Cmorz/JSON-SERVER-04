@@ -1,6 +1,6 @@
 {
   "posts": [
-   [
+   
   {
     "id": 1,
     "title": "Cartagena",
@@ -53,5 +53,5 @@
     "image": "https://www.101viajes.com/sites/default/files/styles/guia-full/public/cibeles-madrid-guia.jpg"
 	
   }
-
+]
 }
