@@ -21,6 +21,14 @@
       "description": "Roma, la capital de Italia, es una extensa ciudad cosmopolita que tiene a la vista casi 3,000 años de arte, arquitectura y cultura de influencia mundial.",
       "temperature": "11°",
       "image": "https://historia.nationalgeographic.com.es/medio/2019/01/18/foro-romano-roma_6a11fe2b.jpg"
+    },
+     
+    { 
+      "id": 4, 
+      "title": "Paris", 
+      "description": "París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura.",
+      "temperature": "12°",
+      "image": "https://viajes.nationalgeographic.com.es/medio/2019/03/29/torre-eiffel-hoy_3f99dce8_800x800.jpg"
     }
   ],
   "comments": [
