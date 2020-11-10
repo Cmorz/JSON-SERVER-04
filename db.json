@@ -1,6 +1,9 @@
 {
-  "Detalles":  [
-   { 
+  "city": {
+    "name": "Medellin"
+  },
+  "poi": [
+    { 
       "id": 1, 
       "title": "Plaza Botero", 
       "description": "La Plaza de Botero o Plaza de las Esculturas, tiene un área de 7.500 metros cuadrados para el disfrute en donde se pueden apreciar 23 esculturas monumentales donadas por el Maestro Fernando Botero. Está situada en uno de los lugares más tradicionales y característicos de la ciudad: cerca del Parque de Berrío, el Museo de Antioquia, el Palacio de la Cultura y el Hotel Nutibara; convirtiéndolo no sólo en el epicentro del arte y la cultura de Medellín, sino también, en un lugar de paso obligado para los visitantes.",
@@ -55,6 +58,6 @@
     }
   ],
   "profile": {
-    "name": "Cmorz"
+    "name": "jaibercom"
   }
 }
