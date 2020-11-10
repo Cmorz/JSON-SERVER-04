@@ -1,11 +1,6 @@
 {
-  "city": {
-    "name": "Medellin"
-  },
-  "city": {
-    "name": "Cartagena"
-  },
-  "poi": [
+  "Detalles": [
+    
     { 
       "id": 1, 
       "title": "Plaza Botero", 
