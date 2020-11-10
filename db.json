@@ -1,27 +1,58 @@
 {
   "Detalles": [
     
-    { 
-      "id": 1, 
-      "title": "Plaza Botero", 
-      "description": "La Plaza de Botero o Plaza de las Esculturas, tiene un área de 7.500 metros cuadrados para el disfrute en donde se pueden apreciar 23 esculturas monumentales donadas por el Maestro Fernando Botero. Está situada en uno de los lugares más tradicionales y característicos de la ciudad: cerca del Parque de Berrío, el Museo de Antioquia, el Palacio de la Cultura y el Hotel Nutibara; convirtiéndolo no sólo en el epicentro del arte y la cultura de Medellín, sino también, en un lugar de paso obligado para los visitantes.",
-      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0d/87/3a/7a/photo4jpg.jpg",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/87/3a/7a/photo4jpg.jpg"
-    },
-    { 
-      "id": 2, 
-      "title": "Cerro Nutibarra", 
-      "description": "El Cerro Nutibara tambień conocido como Pueblito Paisa es una pequeña formación montañosa ubicada en la ciudad colombiana de Medellín, en el centro geográfico del Valle de Aburrá, en la margen occidental del río Medellín, en medio de la zona urbana, y es uno de los pocos ecosistemas que se conservan en localidad.", 
-      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/15/b0/af/0a/pueblito-paisa.jpg",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/b0/af/0a/pueblito-paisa.jpg"
-    }, 
-    { 
-      "id": 3, 
-      "title": "Plaza Botero 2", 
-      "description": "**La Plaza de Botero o Plaza de las Esculturas, tiene un área de 7.500 metros cuadrados para el disfrute en donde se pueden apreciar 23 esculturas monumentales donadas por el Maestro Fernando Botero. Está situada en uno de los lugares más tradicionales y característicos de la ciudad: cerca del Parque de Berrío, el Museo de Antioquia, el Palacio de la Cultura y el Hotel Nutibara; convirtiéndolo no sólo en el epicentro del arte y la cultura de Medellín, sino también, en un lugar de paso obligado para los visitantes.",
-      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0d/87/3a/7a/photo4jpg.jpg",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/87/3a/7a/photo4jpg.jpg"
-    }
+     {
+    "id": 1,
+    "title": "Cartagena",
+    "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia. Junto al mar, se 	encuentra la Ciudad Vieja amurallada, que se fundó en el siglo XVI, con plazas, calles de adoquines y 	edificios coloniales coloridos.",
+    "temperature": "31",
+    "image": "https://i.pinimg.com/originals/a9/45/3a/a9453a8b0d355c9b012a06ee69d82be3.jpg"
+	
+  },
+
+{
+    "id": 2,
+    "title": "Medellín",
+    "description": "Madrid es la capital central de España con elegantes bulevares y amplios parques muy cuidados, como el Buen Retiro. Es famosa por sus ricas colecciones de arte europeo, con obras de Goya, Velázquez y otros maestros españoles en el Museo del Prado. El corazón del antiguo Madrid de los Habsburgo es la Plaza Mayor bordeada de pórticos y cerca se encuentra el Palacio Real y la Armería, que exhiben arsenales históricos.",
+    "temperature": "10°",
+    "image": "https://panel.baquianos.com/img/blog/2020/14/medell-iacuten-xw3x640.jpg"
+	
+  },
+
+{
+    "id": 3,
+    "title": "Roma",
+    "description": "Roma, la capital de Italia, es una extensa ciudad cosmopolita que tiene a la vista casi 3,000 años de arte, arquitectura y cultura de influencia mundial. Las ruinas antiguas como las del Foro y el Coliseo evocan el poder del antiguo Imperio Romano.",
+    "temperature": "11°",
+    "image": "https://historia.nationalgeographic.com.es/medio/2019/01/18/foro-romano-roma_6a11fe2b.jpg"
+	
+  },
+
+{
+    "id": 4,
+    "title": "Paris",
+    "description": "París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura. Su paisaje urbano del siglo XIX está entrecruzado por amplios bulevares y el río Sena. Aparte de estos hitos, como la Torre Eiffel y la catedral gótica de Notre Dame del siglo XII, la ciudad es famosa por su cultura del café y las tiendas de moda de diseñador a lo largo de la calle Rue du Faubourg Saint-Honoré.",
+    "temperature": "12°",
+    "image": "https://viajes.nationalgeographic.com.es/medio/2019/03/29/torre-eiffel-hoy_3f99dce8_800x800.jpg"
+  },
+
+{
+    "id": 5,
+    "title": "Praga",
+    "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia. Junto al mar, se 		encuentra la Ciudad Vieja amurallada, que se fundó en el siglo XVI, con plazas, calles de adoquines y 		edificios coloniales coloridos.",
+    "temperature": "14",
+    "image": "https://aws.traveler.es/prod/designs/v1/assets/940x627/148019.jpg"
+	
+  },
+
+{
+    "id": 6,
+    "title": "Madrid",
+    "description": "Medellín es la capital de la provincia montañosa de Antioquia en Colombia. Es apodada la \"Ciudad de la eterna primavera\" por su clima templado y alberga la famosa Feria de las Flores anua",
+    "temperature": "21.6°",
+    "image": "https://www.101viajes.com/sites/default/files/styles/guia-full/public/cibeles-madrid-guia.jpg"
+	
+  }
   ],
   "comments": [
     { 
