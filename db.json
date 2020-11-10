@@ -29,6 +29,22 @@
       "description": "París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura.",
       "temperature": "12°",
       "image": "https://viajes.nationalgeographic.com.es/medio/2019/03/29/torre-eiffel-hoy_3f99dce8_800x800.jpg"
+    },
+     
+    { 
+      "id": 5, 
+      "title": "Paris", 
+      "description": "París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura.",
+      "temperature": "12°",
+      "image": "https://aws.traveler.es/prod/designs/v1/assets/940x627/148019.jpg"
+    },
+     
+    { 
+      "id": 6, 
+      "title": "Madrid", 
+      "description": "Madrid es la capital central de España con elegantes bulevares y amplios parques muy cuidados, como el Buen Retiro.",
+      "temperature": "10°",
+      "image": "https://www.101viajes.com/sites/default/files/styles/guia-full/public/cibeles-madrid-guia.jpg"
     }
   ],
   "comments": [
