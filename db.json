@@ -2,6 +2,9 @@
   "city": {
     "name": "Medellin"
   },
+  "city": {
+    "name": "Cartagena"
+  },
   "poi": [
     { 
       "id": 1, 
